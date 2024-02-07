@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 839bb270a9b156f45bbbd11d76b65151, type: 3}
+  m_Name: UnityChan
+  m_EditorClassIdentifier: 
+  characterEnum: 0
+  illustsList:
+  - {fileID: 21300000, guid: 1dcd3cdb72f3d2e46a461a2594ab0cde, type: 3}
+  - {fileID: 21300000, guid: db4f52ba2cb72134297e26fafbf06360, type: 3}
+  - {fileID: 21300000, guid: b4a67eaa3400d6648a8905e5bce67cad, type: 3}
+  selectVoices:
+  - {fileID: 8300000, guid: 0317d3e0005787f4da1cda2e646c2b7f, type: 3}
+  - {fileID: 8300000, guid: 0e071a7e24cc09d4e97a19980d2d71bb, type: 3}
+  - {fileID: 8300000, guid: 4ea949e06bcfbc64181ddff200a68e6d, type: 3}
+  - {fileID: 8300000, guid: 64af9f87b1f3bd44eb9f4d75dbef6a1b, type: 3}
+  isPairtVoices:
+  - {fileID: 8300000, guid: c7425bbeead4e664290c0f3cb257db84, type: 3}
+  - {fileID: 8300000, guid: b7a3af8e6eabf4a459b2578ad8357658, type: 3}
+  missVoices:
+  - {fileID: 8300000, guid: 680d0801bc13dc24cbf640e970e26092, type: 3}
+  - {fileID: 8300000, guid: f9ecc1756cc92404489e1103e1eeb4b6, type: 3}
+  waitingVoices:
+  - {fileID: 8300000, guid: c32d91434064c9e4fa6233c2c0a49c0a, type: 3}
